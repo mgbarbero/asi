@@ -18,3 +18,10 @@ Client ID: 059e3882 (TU CLIENT ID)
 Client Secret: addb491b9073b288052f0f105b6bcaea (TU CLIENT SECRET)
 
 Generar un token
+
+
+Para entrar a keycloack
+http://sso.apps.lab.example.com
+
+admin
+redhat
