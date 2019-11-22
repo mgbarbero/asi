@@ -2,3 +2,5 @@ https://www.getpostman.com/downloads/
 Bajar en linux 64
 
 sudo yum install libXScrnSaver-1.2.2-6.1.el7.x86_64
+
+Ejecutar ./Postman
